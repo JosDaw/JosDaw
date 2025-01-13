@@ -35,9 +35,3 @@ Most of my projects are in private repos, but you can find out more by visiting 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-
-
----
-
-### :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JosDaw)](https://git.io/streak-stats)
