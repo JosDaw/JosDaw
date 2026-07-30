@@ -1,6 +1,6 @@
 ### :woman_technologist: About Me
 
-Hey there! I'm a British fullstack developer living in South Korea. I have a passion for creating websites and applications that have a positive impact on people's lives.
+Hey there! I'm a British tech lead / fullstack developer / community builder. I have a passion for creating websites and applications that have a positive impact on people's lives.
 
 Most of my projects are in private repos, but you can find out more by visiting my [Portfolio](https://josiedaw.com).
 
